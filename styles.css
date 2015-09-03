@@ -47,138 +47,151 @@
 .dabang-icon-siren:before {
   content: "\e002";
 }
-.dabang-icon-angle-left:before {
+.dabang-icon-envelope:before {
   content: "\e003";
 }
-.dabang-icon-angle-right:before {
+.dabang-icon-angle-left:before {
   content: "\e004";
 }
-.dabang-icon-close-circle-o:before {
+.dabang-icon-angle-right:before {
   content: "\e005";
 }
-.dabang-icon-close-circle:before {
+.dabang-icon-close-circle-o:before {
   content: "\e006";
 }
-.dabang-icon-close-square:before {
+.dabang-icon-close-circle:before {
   content: "\e007";
 }
-.dabang-icon-circle:before {
+.dabang-icon-close-square:before {
   content: "\e008";
 }
-.dabang-icon-sort-desc:before {
+.dabang-icon-circle:before {
   content: "\e009";
 }
-.dabang-icon-exclamation-circle:before {
+.dabang-icon-sort-desc:before {
   content: "\e00a";
 }
-.dabang-icon-remove:before {
+.dabang-icon-exclamation-circle:before {
   content: "\e00b";
 }
-.dabang-icon-rotate:before {
+.dabang-icon-remove:before {
   content: "\e00c";
 }
-.dabang-icon-car:before {
+.dabang-icon-rotate:before {
   content: "\e00d";
 }
-.dabang-icon-pet:before {
+.dabang-icon-car:before {
   content: "\e00e";
 }
-.dabang-icon-delegate:before {
+.dabang-icon-pet:before {
   content: "\e00f";
 }
-.dabang-icon-home:before {
+.dabang-icon-delegate:before {
   content: "\e010";
 }
-.dabang-icon-angle-down:before {
+.dabang-icon-home:before {
   content: "\e011";
 }
-.dabang-icon-home-star:before {
+.dabang-icon-angle-down:before {
   content: "\e012";
 }
-.dabang-icon-home-search:before {
+.dabang-icon-home-star:before {
   content: "\e013";
 }
-.dabang-icon-angle-up:before {
+.dabang-icon-home-search:before {
   content: "\e014";
 }
-.dabang-icon-road-view:before {
+.dabang-icon-angle-up:before {
   content: "\e015";
 }
-.dabang-icon-heart:before {
+.dabang-icon-map-pin-o:before {
   content: "\e016";
 }
-.dabang-icon-search:before {
+.dabang-icon-road-view:before {
   content: "\e017";
 }
-.dabang-icon-eye:before {
+.dabang-icon-heart:before {
   content: "\e018";
 }
-.dabang-icon-calendar:before {
+.dabang-icon-search:before {
   content: "\e019";
 }
-.dabang-icon-credit-card:before {
+.dabang-icon-eye:before {
   content: "\e01a";
 }
-.dabang-icon-cash:before {
+.dabang-icon-calendar:before {
   content: "\e01b";
 }
-.dabang-icon-check:before {
+.dabang-icon-credit-card:before {
   content: "\e01c";
 }
-.dabang-icon-close:before {
+.dabang-icon-cash:before {
   content: "\e01d";
 }
-.dabang-icon-1room:before {
+.dabang-icon-phone:before {
   content: "\e01e";
 }
-.dabang-icon-2room:before {
+.dabang-icon-check:before {
   content: "\e01f";
 }
-.dabang-icon-3room:before {
+.dabang-icon-close:before {
   content: "\e020";
 }
-.dabang-icon-check-circle:before {
+.dabang-icon-refresh:before {
   content: "\e021";
 }
-.dabang-icon-apartment:before {
+.dabang-icon-1room:before {
   content: "\e022";
 }
-.dabang-icon-officetel:before {
+.dabang-icon-2room:before {
   content: "\e023";
 }
-.dabang-icon-blog-circle:before {
+.dabang-icon-3room:before {
   content: "\e024";
 }
-.dabang-icon-facebook-circle:before {
+.dabang-icon-check-circle:before {
   content: "\e025";
 }
-.dabang-icon-twitter-circle:before {
+.dabang-icon-apartment:before {
   content: "\e026";
 }
-.dabang-icon-rotate-square:before {
+.dabang-icon-officetel:before {
   content: "\e027";
 }
-.dabang-icon-plus-circle:before {
+.dabang-icon-blog-circle:before {
   content: "\e028";
 }
-.dabang-icon-map-view:before {
+.dabang-icon-facebook-circle:before {
   content: "\e029";
 }
-.dabang-icon-photo:before {
+.dabang-icon-twitter-circle:before {
   content: "\e02a";
 }
-.dabang-icon-camera:before {
+.dabang-icon-rotate-square:before {
   content: "\e02b";
 }
-.dabang-icon-pencil:before {
+.dabang-icon-plus-circle:before {
   content: "\e02c";
 }
-.dabang-icon-chart:before {
+.dabang-icon-map-view:before {
   content: "\e02d";
 }
-.dabang-icon-map-pin:before {
+.dabang-icon-photo:before {
   content: "\e02e";
 }
-.dabang-icon-home-up:before {
+.dabang-icon-camera:before {
   content: "\e02f";
 }
+.dabang-icon-pencil:before {
+  content: "\e030";
+}
+.dabang-icon-chart:before {
+  content: "\e031";
+}
+.dabang-icon-map-pin:before {
+  content: "\e032";
+}
+.dabang-icon-home-up:before {
+  content: "\e033";
+}
+
