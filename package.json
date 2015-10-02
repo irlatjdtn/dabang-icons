@@ -1,0 +1,13 @@
+{
+  "name": "dabnag-icons",
+  "version": "0.0.1",
+  "description": "다방 웹사이트에 사용되는 아이콘을 font로 만들어 놓은 repo이다.",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/station3/dabang-icons.git"
+  },
+  "author": "김성수(sskim@station3.co.kr)",
+  "bugs": {
+    "url": "https://github.com/station3/dabang-icons/issues"
+  }
+}
