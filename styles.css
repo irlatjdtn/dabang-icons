@@ -62,9 +62,6 @@
 .dabang-icon-blog-circle:before {
   content: "\e008";
 }
-.dabang-icon-calendar:before {
-  content: "\e009";
-}
 .dabang-icon-camera:before {
   content: "\e00a";
 }
@@ -176,9 +173,6 @@
 .dabang-icon-twitter-circle:before {
   content: "\e032";
 }
-.dabang-icon-user:before {
-  content: "\e033";
-}
 .dabang-icon-plus:before {
   content: "\e034";
 }
@@ -220,5 +214,17 @@
 }
 .dabang-icon-th-large:before {
   content: "\e03c";
+}
+.dabang-icon-calendar:before {
+  content: "\e009";
+}
+.dabang-icon-user:before {
+  content: "\e033";
+}
+.dabang-icon-comment:before {
+  content: "\e03d";
+}
+.dabang-icon-filter:before {
+  content: "\e03e";
 }
 
