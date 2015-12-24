@@ -167,9 +167,6 @@
 .dabang-icon-siren:before {
   content: "\e030";
 }
-.dabang-icon-sort-desc:before {
-  content: "\e031";
-}
 .dabang-icon-twitter-circle:before {
   content: "\e032";
 }
@@ -226,5 +223,14 @@
 }
 .dabang-icon-filter:before {
   content: "\e03e";
+}
+.dabang-icon-sort-desc:before {
+  content: "\e031";
+}
+.dabang-icon-caret-right:before {
+  content: "\e03f";
+}
+.dabang-icon-refresh-o:before {
+  content: "\e040";
 }
 
