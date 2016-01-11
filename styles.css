@@ -107,9 +107,6 @@
 .dabang-icon-map-pin-o:before {
   content: "\e022";
 }
-.dabang-icon-map-view:before {
-  content: "\e023";
-}
 .dabang-icon-officetel:before {
   content: "\e024";
 }
@@ -232,5 +229,17 @@
 }
 .dabang-icon-stop:before {
   content: "\e03b";
+}
+.dabang-icon-deposit:before {
+  content: "\e041";
+}
+.dabang-icon-lease:before {
+  content: "\e042";
+}
+.dabang-icon-map-view:before {
+  content: "\e023";
+}
+.dabang-icon-mothly:before {
+  content: "\e043";
 }
 
