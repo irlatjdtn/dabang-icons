@@ -242,4 +242,10 @@
 .dabang-icon-mothly:before {
   content: "\e043";
 }
+.dabang-icon-refresh-square:before {
+  content: "\e044";
+}
+.dabang-icon-arrows-v:before {
+  content: "\e045";
+}
 
