@@ -44,9 +44,6 @@
 .dabang-icon-apartment:before {
   content: "\e007";
 }
-.dabang-icon-blog-circle:before {
-  content: "\e008";
-}
 .dabang-icon-camera:before {
   content: "\e00a";
 }
@@ -161,9 +158,6 @@
 .dabang-icon-check-circle-large:before {
   content: "\e036";
 }
-.dabang-icon-check-square-large:before {
-  content: "\e037";
-}
 .dabang-icon-heart-o:before {
   content: "\e038";
 }
@@ -199,9 +193,6 @@
 }
 .dabang-icon-2room:before {
   content: "\e001";
-}
-.dabang-icon-check:before {
-  content: "\e00c";
 }
 .dabang-icon-chat:before {
   content: "\e00d";
@@ -247,5 +238,14 @@
 }
 .dabang-icon-arrows-v:before {
   content: "\e045";
+}
+.dabang-icon-check-square-large:before {
+  content: "\e037";
+}
+.dabang-icon-check:before {
+  content: "\e00c";
+}
+.dabang-icon-blog-circle:before {
+  content: "\e008";
 }
 
