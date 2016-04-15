@@ -248,4 +248,13 @@
 .dabang-icon-blog-circle:before {
   content: "\e008";
 }
+.dabang-icon-current-location:before {
+  content: "\e046";
+}
+.dabang-icon-pin:before {
+  content: "\e047";
+}
+.dabang-icon-university:before {
+  content: "\e048";
+}
 
