@@ -257,4 +257,12 @@
 .dabang-icon-university:before {
   content: "\e048";
 }
-
+.dabang-icon-badge:before {
+  content: "\e049";
+}
+.dabang-icon-time2:before {
+  content: "\e04a";
+}
+.dabang-icon-time1:before {
+  content: "\e04b";
+}
